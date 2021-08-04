@@ -1,12 +1,11 @@
 ---
-title: About Mee
+title: About Us
 template: about-template
-profile_image: /media/profile-image.jpg
+profile_image: /media/3techagency-social-logo.png
 ---
 
-# Hi, I'm John Doe
+# Hi,
 
-This website is a live example of a Gatsby Starter — it's not a real blog.
-People using this starter may want to add some information to this page about them or their business.
+We are a marketing automation agency helping you grow your business frictionlessly.
 
 
