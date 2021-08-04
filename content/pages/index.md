@@ -1,8 +1,5 @@
 ---
-template: 'index-template'
-title: 'Gatsby Starter Glass'
+title: 3techagency Blog
+template: index-template
 ---
-
-#Hello World
-
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+### Learn.Execute.Grow
